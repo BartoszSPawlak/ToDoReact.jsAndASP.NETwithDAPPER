@@ -1,0 +1,6 @@
+@ToDoAPIwithDAPPER_HostAddress = http://localhost:5278
+
+GET {{ToDoAPIwithDAPPER_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

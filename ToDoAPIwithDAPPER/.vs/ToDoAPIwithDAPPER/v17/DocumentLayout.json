@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Coding\\ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20ACA189-95CE-4C49-9319-33370F1F8330}|ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER.csproj|c:\\coding\\todoapiwithdapper\\todoapiwithdapper\\todoapiwithdapper\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ACA189-95CE-4C49-9319-33370F1F8330}|ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER.csproj|solutionrelative:todoapiwithdapper\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ACA189-95CE-4C49-9319-33370F1F8330}|ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER.csproj|c:\\coding\\todoapiwithdapper\\todoapiwithdapper\\todoapiwithdapper\\models\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ACA189-95CE-4C49-9319-33370F1F8330}|ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER.csproj|solutionrelative:todoapiwithdapper\\models\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ACA189-95CE-4C49-9319-33370F1F8330}|ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER.csproj|c:\\coding\\todoapiwithdapper\\todoapiwithdapper\\todoapiwithdapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ACA189-95CE-4C49-9319-33370F1F8330}|ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER.csproj|solutionrelative:todoapiwithdapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ACA189-95CE-4C49-9319-33370F1F8330}|ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER.csproj|c:\\coding\\todoapiwithdapper\\todoapiwithdapper\\todoapiwithdapper\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ACA189-95CE-4C49-9319-33370F1F8330}|ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER.csproj|solutionrelative:todoapiwithdapper\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 205,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataStore.cs",
+              "DocumentMoniker": "C:\\Coding\\ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER\\Models\\DataStore.cs",
+              "RelativeDocumentMoniker": "ToDoAPIwithDAPPER\\Models\\DataStore.cs",
+              "ToolTip": "C:\\Coding\\ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER\\Models\\DataStore.cs",
+              "RelativeToolTip": "ToDoAPIwithDAPPER\\Models\\DataStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:27:46.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Coding\\ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "ToDoAPIwithDAPPER\\Models\\Item.cs",
+              "ToolTip": "C:\\Coding\\ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER\\Models\\Item.cs",
+              "RelativeToolTip": "ToDoAPIwithDAPPER\\Models\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:15:31.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoController.cs",
+              "DocumentMoniker": "C:\\Coding\\ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER\\Controllers\\ToDoController.cs",
+              "RelativeDocumentMoniker": "ToDoAPIwithDAPPER\\Controllers\\ToDoController.cs",
+              "ToolTip": "C:\\Coding\\ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER\\Controllers\\ToDoController.cs",
+              "RelativeToolTip": "ToDoAPIwithDAPPER\\Controllers\\ToDoController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwGgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:13:24.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Coding\\ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoAPIwithDAPPER\\Program.cs",
+              "ToolTip": "C:\\Coding\\ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER\\Program.cs",
+              "RelativeToolTip": "ToDoAPIwithDAPPER\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:11:18.787Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
