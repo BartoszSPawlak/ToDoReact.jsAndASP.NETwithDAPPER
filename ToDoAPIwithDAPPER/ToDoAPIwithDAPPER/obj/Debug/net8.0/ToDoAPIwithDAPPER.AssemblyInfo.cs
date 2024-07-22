@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToDoAPIwithDAPPER")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+407ca3677532bff165f7274042032c18944fc2c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToDoAPIwithDAPPER")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToDoAPIwithDAPPER")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -2154,11 +2154,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Coding\\ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER.csproj",
+      "projectUniqueName": "C:\\Frontend and Backend\\ToDoListReactWithServer\\ToDoReact.jsAndASP.NETwithDAPPER\\ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER.csproj",
       "projectName": "ToDoAPIwithDAPPER",
-      "projectPath": "C:\\Coding\\ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER.csproj",
+      "projectPath": "C:\\Frontend and Backend\\ToDoListReactWithServer\\ToDoReact.jsAndASP.NETwithDAPPER\\ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER.csproj",
       "packagesPath": "C:\\Users\\Bartosz\\.nuget\\packages\\",
-      "outputPath": "C:\\Coding\\ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER\\obj\\",
+      "outputPath": "C:\\Frontend and Backend\\ToDoListReactWithServer\\ToDoReact.jsAndASP.NETwithDAPPER\\ToDoAPIwithDAPPER\\ToDoAPIwithDAPPER\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
